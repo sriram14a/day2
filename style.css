@@ -1,0 +1,119 @@
+body{
+    background-color:darkslategray;
+    opacity: 2;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color:azure;  
+    text-shadow: 2px ;
+      
+    font-family: "Lucida Console", "Courier New", monospace;
+        
+      }
+      h2{
+        text-align: center;
+    text-transform: uppercase;
+    color:azure;  
+      }
+      .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }h3{
+        text-align: left;
+      }
+      p1{
+        text-align: center;
+        font-size: 30px;
+        font-family:monospace ;
+    color:rgb(236, 229, 229);}
+   
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header {
+  background-color:brown;
+  padding: 20px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+article {
+  float: left;
+  padding: 30px;
+  width: 100%;
+  background-color:black;
+  height: 800px;
+  font-size: 25px;
+  text-align: left;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header1 {
+  background-color:brown;
+  padding: 20px;
+  width: 600%;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+article1{
+  float: left;
+  padding: 30px;
+  width: 100%;
+  background-color:black;
+  height: 800px;
+  font-size: 25px;
+  text-align: left;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}   
+ 
+header2 {
+  background-color:brown;
+  padding: 20px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+article2{
+  float: left;
+  padding: 30px;
+  width: 100%;
+  background-color:black;
+  height: 1000px;
+  font-size: 25px;
+  text-align: left;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header3 {
+  background-color:brown;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+article3{
+  float: left;
+  padding: 30px;
+  width: 100%;
+  background-color:black;
+  height: 800px;
+  font-size: 25px;
+  text-align: left;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}   
+       
